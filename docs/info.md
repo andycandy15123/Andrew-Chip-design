@@ -9,13 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+
 
 When the 1 switch is on, the clock is a 7. When the button is pressed, its also a 7 but looks different then the switch one
 When the 2 switch is on, the 1 is halved so only one piece of led is on.
 ## How to test
 
-Explain how to use your project
+
 
 When the 1 switch is on, the clock is a 7. When the button is pressed, its also a 7 but looks different then the switch one
 When the 2 switch is on, the 1 is halved so only one piece of led is on.
